@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Website",
+    "link": "https://aincatoni.com",
+    "image": "src/assets/images/website.png"
+  },
+  {
+    "title": "My resume online",
+    "link": "https://aincatoni.com/acerca-de-mi",
+    "image": "src/assets/images/resume.png"
+  },
+  {
+    "title": "My band: Espacio Volátil",
+    "link": "https://espaciovolatil.bandcamp.com/album/cuenta-regresiva",
+    "image": "src/assets/images/ev.jpeg"
+  },
+  {
+    "title": "Blog",
+    "link": "https://lasestrellasfugaces.aincatoni.com",
+    "image": "src/assets/images/blog.png"
+  },
+  {
+    "title": "Instagram",
+    "link": "https://instagram.com/aincatoni",
+    "image": "src/assets/images/profile_pic.png"
+  },
+  {
+    "title": "Spotify",
+    "link": "https://open.spotify.com/artist/397Wv1YS1W65VEklkMS8GB?si=UfMa3_AtSCaa2oVrX0t8Zw",
+    "image": "src/assets/images/spotify.jpeg"
+  }
+]

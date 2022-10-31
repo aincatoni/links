@@ -1,9 +1,9 @@
-import ProfilePic from "../assets/images/profile_pic.png";
+import ProfilePic from "../assets/images/profile_pic_drums.jpeg";
 function Bio() {
   return (
-    <div className="dark:bg-zinc-700 flex items-center rounded-r-md hover:shadow-md transition">
-      <div className="h-[150px] w-[225px]">
-        <img className="h-full object-cover" src={ProfilePic} alt="" />
+    <div className="w-5/6 mx-auto dark:bg-zinc-700 flex items-center gap-10 rounded-r-md hover:shadow-md transition">
+      <div className="h-[175px]">
+        <img className="h-full w-full object-cover" src={ProfilePic} alt="" />
       </div>
       <div className="">
         <h2>Hi I'm Ain 👨🏻‍💻</h2>
