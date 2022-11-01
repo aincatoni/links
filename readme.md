@@ -46,3 +46,9 @@ This markdown document its for record the proscess
 - JavaScript
 - Tailwind CSS
 - Git
+
+### Desktop Light Theme View
+
+The project on [Figma](https://www.figma.com/file/Vq30l7BtJgrVk8FyQLaWme/Ain-Links-Collector?node-id=0%3A1 "figma")
+
+![Desktop_view_mockup_ui](/src/assets/images/Ain_Links_Collector_Desktop_View.jpg)
