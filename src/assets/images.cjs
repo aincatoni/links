@@ -8,7 +8,7 @@ const directoryPath = path.join(__dirname, "images");
 fs.readdir(directoryPath, function (err, files) {
   //mensaje de error
   if (err) {
-    return console.log("Unable to scan directory: " + err);
+    return console.log(`No es posible escanear el directorio: ${err}`);
   }
 
   files.forEach(function (file) {
